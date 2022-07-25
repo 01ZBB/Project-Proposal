@@ -9,13 +9,11 @@ This research can help find the potential differences between each factor and th
 2. The information of the features in this dataset is in the table below:
 | column| Discription|  
 |:-----:|:----------:|
-| work_year| The year the salary was paid|
-
-| experience_level      | The experience level in the job during the year with the following possible values:EN Entry-level  |
-                          / Junior MI Mid-level / Intermediate SE Senior-level / Expert EX Executive-level / Director|      
+| work_year|The year the salary was paid|
+| experience_level|The experience level in the job during the year with the following possible values:EN Entry-level / Junior MI Mid-level / Intermediate SE Senior-level / Expert EX Executive-level / Director|      
                           
-|employment_type        |The type of employement for the role: PT Part-time FT Full-time CT Contract FL Freelance            |
-|job_title              |The role worked in during the year                                                                  |
+|employment_type|The type of employement for the role: PT Part-time FT Full-time CT Contract FL Freelance            |
+|job_title|The role worked in during the year                                                                  |
 |salary                 |The total gross salary amount paid                                                                  |
 |salary_currency        |The currency of the salary paid as an ISO 4217 currency code                                        |
 |salaryinusd            |The salary in USD (FX rate divided by avg. USD rate for the respective year via fxdata.foorilla.com)|
