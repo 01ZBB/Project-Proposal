@@ -1,6 +1,6 @@
 # Project-Proposal
 ## Inroduction of the research question
-The main research question is to explore the impact of one or more different factors on salaries. For example, is there any relationship between the company size and the salaries of workrs there? Or are there any differences between groups of different job titles or employment types?
+The main research question is to explore the impact of one or more different factors on salaries. For example, is there any relationship between the company size and the salaries of workrs there? Or are there any differences of salaries between groups of different job titles or employment types?
 ## The meaning of this research question
 This research can help find the potential differences between each factor and the salary, and also further explore if these relationships are causation relationships. The results can be useful to the employees and the employers, which can guide both sides of them to make decisions about salary payment or acceptance. The results can even serve the government for policy making, which may do good to various aspects such as improving the salary level and wage protection system.
 ## A preliminary description of data sources
