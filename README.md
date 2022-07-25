@@ -9,7 +9,8 @@ This research can help find the potential differences between each factor and th
 2. The information of the features in this dataset is in the table below:
 | column| Discription|  
 |:-----:|:----------:|
-| work_year             | The year the salary was paid                                                                       |
+| work_year| The year the salary was paid|
+
 | experience_level      | The experience level in the job during the year with the following possible values:EN Entry-level  |
                           / Junior MI Mid-level / Intermediate SE Senior-level / Expert EX Executive-level / Director|      
                           
