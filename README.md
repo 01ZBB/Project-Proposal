@@ -6,7 +6,7 @@ This research can help find the potential differences between each factor and th
 ## A preliminary description of data sources
 1. The data source is [Data Science Job Salaries](https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries)
 2. The information of the features in this dataset is in the table below:
-| column| Discription|  
+| column                | Discription                                                                                        |  
 |:---------------------:|:--------------------------------------------------------------------------------------------------:|
 | work_year             | The year the salary was paid                                                                       |
 | experience_level      | The experience level in the job during the year with the following possible values:EN Entry-level / Junior MI Mid-level / Intermediate SE                             Senior-level / Expert EX Executive-level / Director                                              |       
